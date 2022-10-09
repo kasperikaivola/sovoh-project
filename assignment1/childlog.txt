@@ -1,0 +1,3 @@
+Child: Hello from child process execvp, pid: 5083
+Child: Got signal 66
+Child: Child finished, exiting...
