@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/kaspe/OneDrive - Aalto University/Aalto/Kurssit/ELEC-C7310 - Sovellusohjelmointi/Assignment1/Example/as1_mockup.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+fcntl.h
+-
+

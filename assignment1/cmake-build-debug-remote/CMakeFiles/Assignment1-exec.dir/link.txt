@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Assignment1-exec.dir/execmain.c.o CMakeFiles/Assignment1-exec.dir/morse.c.o CMakeFiles/Assignment1-exec.dir/logging.c.o -o Assignment1-exec 

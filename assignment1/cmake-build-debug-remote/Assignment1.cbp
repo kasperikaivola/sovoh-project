@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment1">
+				<Option output="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Assignment1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 Assignment1"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment1/fast">
+				<Option output="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Assignment1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 Assignment1/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment1-exec">
+				<Option output="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Assignment1-exec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 Assignment1-exec"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment1-exec/fast">
+				<Option output="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Assignment1-exec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 Assignment1-exec/fast"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -f &quot;/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug-remote/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/as1.c">
+			<Option target="Assignment1"/>
+		</Unit>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/execmain.c">
+			<Option target="Assignment1-exec"/>
+		</Unit>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/logging.c">
+			<Option target="Assignment1"/>
+			<Option target="Assignment1-exec"/>
+		</Unit>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/logging.h">
+			<Option target="Assignment1"/>
+			<Option target="Assignment1-exec"/>
+		</Unit>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/morse.c">
+			<Option target="Assignment1-exec"/>
+		</Unit>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/morse.h">
+			<Option target="Assignment1-exec"/>
+		</Unit>
+		<Unit filename="/home/testi/Documents/sovellusohjelmointi/assignment1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

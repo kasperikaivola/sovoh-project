@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Assignment1.dir/as1.c.o CMakeFiles/Assignment1.dir/logging.c.o -o Assignment1 

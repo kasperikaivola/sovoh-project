@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Example1.dir/as1_mockup.c.o  -o Example1 

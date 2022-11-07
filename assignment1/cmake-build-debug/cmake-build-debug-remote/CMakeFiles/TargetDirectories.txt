@@ -1,0 +1,4 @@
+/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug/cmake-build-debug-remote/CMakeFiles/Assignment1.dir
+/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug/cmake-build-debug-remote/CMakeFiles/Assignment1-child.dir
+/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug/cmake-build-debug-remote/CMakeFiles/edit_cache.dir
+/home/testi/Documents/sovellusohjelmointi/assignment1/cmake-build-debug/cmake-build-debug-remote/CMakeFiles/rebuild_cache.dir
